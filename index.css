@@ -1,4 +1,32 @@
 p {
     font-family: Georgia;
+    font-size: 15px;
+}
+#furniture_emporium {
+    border-bottom: 14px dotted;
+    border-color: white; 
+    padding: 6px;
+    margin-left: 190px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: black;
+}
+.subtitle {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+article {
+    border-radius: 2px;
+    border-width: 8px;
+    background-color: white;
+    margin: 16px;
+    padding: 6px;
+    border-color: #8FBC8B;
+    border-style: double;
+}
+button {
+    background-color: #8FBC8B;
+    font-weight: 800;
     font-size: 14px;
+    color: white;
 }
